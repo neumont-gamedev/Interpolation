@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6c89ab03bda07af4194b9c95dea82c0a
+timeCreated: 1502813975
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Solomon's Key True Type
+  fontNames:
+  - 536f6c6f6d6f6e2773204b657920547275652054797065
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
