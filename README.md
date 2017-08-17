@@ -1,4 +1,6 @@
-Interpolation - Unity - Raymond L Maple<br/>
+Interpolation<br/>
+Unity - 2017.2.0b3<br/>
+Raymond L Maple<br/>
 08-16-2017
 
 This project shows different examples of interpolation/tween functions.
