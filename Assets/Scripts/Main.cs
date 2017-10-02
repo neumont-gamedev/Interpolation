@@ -69,5 +69,10 @@ public class Main : MonoBehaviour
         time = time + (Time.deltaTime * m_cameraZoomRate);
         time = Mathf.Clamp01(time);
         m_camera.transform.position = Vector3.Lerp(m_cameraSource, m_cameraTarget, time);
-	}
+
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+    }
 }
